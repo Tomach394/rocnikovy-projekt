@@ -12,5 +12,5 @@ Název projektu: "SitcomHub" Struktura projektu:
 - Možnost hodnocení a recenze od uživatele (Odkaz na čsfd)
 - Odkaz na stránky, kde se na sitcomy můžete kouknout
 
-Použité zdroje při vytváření: ChatGPT, Wikipedia, ČSFD, obecně google a youtube Spolupracovník: Matyas Erber (T3B)
+Použité zdroje při vytváření: ChatGPT, Wikipedia, ČSFD, obecně google a youtube, Photoshop. Spolupracovník: Matyas Erber (T3B)
 Bohužel jsem nestihl vše co jsem chtěl, ale myslím si, že i tak se tento web vypadá dobře.
